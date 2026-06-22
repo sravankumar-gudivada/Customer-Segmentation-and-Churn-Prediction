@@ -143,7 +143,7 @@ These segments can support targeted business actions:
 Install the following Python libraries before running the notebook:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn openpyxl
+pip install -r requirements.txt
 ```
 
 ## How to Run
